@@ -1,7 +1,7 @@
 Hi from South London, thanks for checking out my codes. I have a music background and mostly understand web, audio, and graphics programing. I am into Unix, pure JS, GLSL, Swift, and Go.
 
 [**JS modules &rarr;**](https://thewhodidthis.com/modules/)  
-_The bulk of which are below 1kB thanks very much._
+_The bulk of which are below 1k thanks very much._
 
 [**Ivory &rarr;**](https://thewhodidthis.net)  
 _Web based artefacts of culture set in the ivory template arranged
