@@ -1,4 +1,4 @@
-Hi from South London, thanks for checking out my codes. I have a music background and mostly understand web, audio, and graphics programing. I am into Unix, pure JS, GLSL, Swift, and Go.
+Hi from South London, thanks for checking out my codes. I have a music background and mostly understand web, audio, and graphics programing. I am into Unix, vanilla JS, GLSL, Swift, and Go.
 
 [**JS modules &rarr;**](https://thewhodidthis.com/modules/)  
 _The bulk of which are below 1k thanks very much._
