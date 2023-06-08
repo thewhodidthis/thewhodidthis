@@ -10,7 +10,7 @@ _Web based artefacts of culture set in the ivory template arranged
 across the binary palindromic series_ [`A006995`](https://oeis.org/search?q=A006995).
 
 [**Sketches &rarr;**](https://thewhodidthis.com/sketches/)  
-_Creative coding experiments made studying larger problems._
+_On the way to figuring out commonly useful tricks._
 
 [**Tabs &rarr;**](https://thewhodidthis.com/tabs/)  
 _The idea being to come up with different ways of animating by page refresh only._
